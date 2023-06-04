@@ -17,3 +17,5 @@
 14. git init
 15. rm -rf .git
 16. git remote rename <old_name> <new_name>
+
+Demo of git pull
