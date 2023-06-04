@@ -19,3 +19,5 @@
 16. git remote rename <old_name> <new_name>
 
 Demo of git pull
+
+this is some usefull information
