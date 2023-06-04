@@ -16,3 +16,4 @@
 13. git config -list
 14. git init
 15. rm -rf .git
+16. git remote rename <old_name> <new_name>
