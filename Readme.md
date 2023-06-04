@@ -20,4 +20,6 @@
 
 Demo of git pull
 
+Demo of Merge Conflicts
+
 this is some usefull information
